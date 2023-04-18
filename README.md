@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/110921145/232881457-10704f5b-2950-4ab6-8014-23b68d6ce6c4.png)
+
+
+
 Movie application
 
 This application was part of a lesson in React-The Complete Guide(incl Hooks, React Router, Redux) by Maximlian Schwarzmuller.
